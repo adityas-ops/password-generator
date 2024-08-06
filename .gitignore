@@ -90,3 +90,5 @@ yarn-error.log
 
 # Android Studio
 *.apk
+
+package-lock.json
